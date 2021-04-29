@@ -3,10 +3,14 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar  
 - PHP FRAMEWORK
+    ^ Laravel
 - Interview
 - Vlogs
+- Python
 
 
 Ini Perubahan Setelah Di Merge ke Master
